@@ -37,4 +37,4 @@ for i in range(len(uid)):
     except:
         print('closed driver for -- %s'%(uid[i]))
         driver.quit()
-input('\nall fine?\t')
+input('\n all fine?\t')
