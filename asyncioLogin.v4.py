@@ -1,4 +1,4 @@
-#importing libraries
+#importing all libraries
 from aiohttp import ClientSession
 import pandas as pd
 import asyncio
